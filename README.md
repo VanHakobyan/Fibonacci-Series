@@ -10,51 +10,7 @@
 
 <dl>
 <dd><span><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
-  <semantics>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mstyle displaystyle="true" scriptlevel="0">
-        <mn>1</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>1</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>2</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>3</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>5</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>8</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>13</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>21</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>34</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>55</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>89</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mn>144</mn>
-        <mo>,</mo>
-        <mspace width="thickmathspace"></mspace>
-        <mo>…<!-- … --></mo>
-        <mspace width="thickmathspace"></mspace>
-      </mstyle>
-    </mrow>
-    <annotation encoding="application/x-tex"></annotation>
-  </semantics>
+  
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7951ca1f26aebf2afbb3eb7f30c4725e635a79b3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:45.939ex; height:2.509ex;" alt="1,\;1,\;2,\;3,\;5,\;8,\;13,\;21,\;34,\;55,\;89,\;144,\;\ldots \;"></span></dd>
 </dl>
 

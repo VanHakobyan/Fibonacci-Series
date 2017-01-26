@@ -53,7 +53,7 @@
         <mspace width="thickmathspace"></mspace>
       </mstyle>
     </mrow>
-    <annotation encoding="application/x-tex">{\displaystyle 1,\;1,\;2,\;3,\;5,\;8,\;13,\;21,\;34,\;55,\;89,\;144,\;\ldots \;}</annotation>
+    <annotation encoding="application/x-tex"></annotation>
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7951ca1f26aebf2afbb3eb7f30c4725e635a79b3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:45.939ex; height:2.509ex;" alt="1,\;1,\;2,\;3,\;5,\;8,\;13,\;21,\;34,\;55,\;89,\;144,\;\ldots \;"></span></dd>
 </dl>
